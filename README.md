@@ -1,4 +1,4 @@
-# online-examination-systen-in-php
+# online-examination-system-in-php
 Online Examination System 
 
 Today Online Examination System has become a fast growing examination method because of its speed and accuracy. 
